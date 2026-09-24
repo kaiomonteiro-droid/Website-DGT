@@ -1,0 +1,60 @@
+h1{
+    font-size: 45px;
+    color: #6770929c;
+    background-color: rgb(16, 31, 46);
+    border: solid 1px #fff;
+    margin-left: 8px;
+    margin-right: 8px;
+    text-align: center;
+    }
+h2{
+    color:rgba(0, 0, 0, 0.795)
+    }
+h3{
+    color:rgb(35, 35, 100, 0.795)
+    }
+h4{
+    color:rgb(35, 35, 100, 0.795)
+    }
+h5{
+    color:rgb(35, 35, 100, 0.795)
+    }
+h6{
+    color:rgb(35, 35, 100, 0.795)
+    }
+body{
+    font-family:'Arial', sans-serif;  
+    background-color: rgb(32, 27, 23); 
+    margin-left: auto;
+    margin-right: auto;
+    }
+footer{
+    background-color: rgb(16, 31, 46);
+    border: solid 1px #fff;
+    margin-left: 8px;
+    margin-right: 8px;
+    text-align: center;
+    font-size: 12.5px;
+    }
+
+main{
+    text-align: center;
+}
+#main_image{
+    width: 99%;
+    border: solid 1px #fff;
+     margin-left: 4px;
+    margin-right: auto;
+    text-align: center;
+}
+.icon{
+   width: 20%;
+   border: solid 1px #fff;
+   margin-left: 20px;
+    margin-right: auto;
+    margin-top: 20px;
+    margin-bottom: auto;
+}
+    a:hover{
+        color: #4fa4b3;
+}
